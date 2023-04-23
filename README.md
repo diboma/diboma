@@ -1,9 +1,9 @@
-### Hi there 👋
-
 <!--
 **diboma/diboma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am currently following a Graduate Programming at Arteveldehogeschool (Ghent, Belgium)
+### Studying
+I am currently following a Graduate Programming at Arteveldehogeschool (Ghent, Belgium) [@pgmgent](https://github.com/pgmgent)
 
 ### Technologies, frameworks and concepts I am familiar with:
-- HTML, CSS, flexbox, Bootstrap 
+- HTML
+- CSS, flexbox, Bootstrap, Tailwind 
 - Javascript, NodeJs, ExpressJS, MongoDB 
 - PHP, CodeIgniter, Laravel
 - API, CRUD, MVC
