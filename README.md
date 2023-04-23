@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am currently following a Graduate Programming at Arteveldehogeschool (Ghent, Belgium)
+
+### Technologies, frameworks and concepts I am familiar with:
+- HTML, CSS, flexbox, Bootstrap 
+- Javascript, NodeJs, ExpressJS, MongoDB 
+- PHP, CodeIgniter, Laravel
+- API, CRUD, MVC
+- Google Apps Script, Google Cloud Platform
+
+### Websites I'm maintaining:
+- [iLeren](https://ileren.be)
+- [Schuilplaats](https://schuilplaats.be)
+
+### More projects
+Have a look at my [portfolio](https://dirkb.be/portfolio/)
