@@ -25,9 +25,5 @@ I have recently finished the Associate Degree in Computer Programming at Artevel
 - API, CRUD, MVC
 - Google Apps Script, Google Cloud Platform
 
-### Websites I'm maintaining:
-- [iLeren](https://ileren.be)
-- [Schuilplaats](https://schuilplaats.be)
-
-### More projects
+### Projects
 Have a look at my [portfolio](https://dirkb.be/portfolio/)
